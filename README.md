@@ -29,7 +29,7 @@ Process & Challenges faced:
 ----------------------------
 **Page 4: Login**
 
-![Login](https://imgur.com/TsS0FSe.png)
+![Login](https://imgur.com/I0K5y4f.png)
 
 ----------------------------
 **Page 5: Register**
