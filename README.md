@@ -5,7 +5,7 @@ A Laravel PHP CRUD project that I have built using TailwindCSS, took almost 30 h
 Process & Challenges faced:
 1) Completed a crash course of 6 hours.
 2) Downloaded ***several*** apps and extensions.
-3) Searched various platforms to follow up with the database integration. Had issues with MySQL, composer, and WAMP, but instant relief felt once it worked.
+3) Searched various platforms to follow up with the database integration. Had issues with MySQL, migration and table creation, but instant relief felt once it worked.
 4) Decided to use TailwindCSS instead of Bootstrap because versatile. But will convert it to Bootstrap eventually, just like that, to learn.
 5) Pushed to Github. Ta-da!
 
@@ -21,7 +21,17 @@ Process & Challenges faced:
 
 ![Blog Posts](https://imgur.com/xYCSlVE.png)
 
-----------------------------
+-----------------------------
 **Page 3: Create Posts**
 
 ![Create Posts](https://imgur.com/zNTF2Oz.png)
+
+----------------------------
+**Page 4: Login**
+
+![Login](https://imgur.com/TsS0FSe.png)
+
+----------------------------
+**Page 5: Register**
+
+![Register](https://imgur.com/5Mf37t9.png)
